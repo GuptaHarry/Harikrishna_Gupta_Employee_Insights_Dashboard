@@ -26,7 +26,11 @@ export default function CameraCapture({ setPhoto }) {
     }
 
     startCamera()
+  
+     // INTENTIONAL BUG AREA.
 
+
+     
   }, [])
 
 
